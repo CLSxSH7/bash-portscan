@@ -2,10 +2,10 @@
 
 1. **Run the script:**
 
-    Execute the `port_scan.sh` script and follow the prompts to specify the host and port range to scan.
+    Execute the `portscan.sh` script and follow the prompts to specify the host and port range to scan.
 
     ```bash
-    ./port_scan.sh
+    ./portscan.sh
     ```
 
     Follow the on-screen prompts to enter the host address, starting port, and ending port. The script will then scan the specified range of ports on the given host and generate a report.
